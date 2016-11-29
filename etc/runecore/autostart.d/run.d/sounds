@@ -1,0 +1,6 @@
+#!/bin/sh
+
+
+#Login
+canberra-gtk-play --file=/usr/share/sounds/freedesktop/stereo/service-login.oga
+
